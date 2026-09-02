@@ -1,0 +1,5 @@
+streamlit
+python-whois
+scikit-learn
+joblib
+fpdf2
